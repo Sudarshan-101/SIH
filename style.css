@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f7fafc;
+}
+
+.bg-gradient-gold {
+    background: linear-gradient(to right, #FFD700, #FFC72C, #FFD700);
+}
+
+.crown-svg {
+    color: #FFC107;
+}
+
+.medal-svg {
+    color: #C0C0C0;
+}
